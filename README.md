@@ -1,6 +1,6 @@
 # WizardMath
 
-Inspired by : https://arxiv.org/pdf/2308.09583v1.pdf
+
 
 1.
 ![Enhancing-Mathematical-Reasoning-with-WizardMath_page-0001](https://github.com/Rakib-data-scientist/WizardMath/assets/137823730/180a03be-0155-4ef7-9989-52111c850352)
@@ -24,3 +24,5 @@ Inspired by : https://arxiv.org/pdf/2308.09583v1.pdf
 ![Enhancing-Mathematical-Reasoning-with-WizardMath_page-0010](https://github.com/Rakib-data-scientist/WizardMath/assets/137823730/ca205f80-afab-430b-94bb-009de2590571)
 11.
 ![Enhancing-Mathematical-Reasoning-with-WizardMath_page-0011](https://github.com/Rakib-data-scientist/WizardMath/assets/137823730/11867a0c-fed7-4297-bbf8-b96b1b07e237)
+
+* Inspired by : https://arxiv.org/pdf/2308.09583v1.pdf
